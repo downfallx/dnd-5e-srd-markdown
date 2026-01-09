@@ -1,0 +1,31 @@
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS files
+Thumbs.db
+Desktop.ini
+
+# Build outputs
+dist/
+build/
+*.log
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Generated files
+.cache/
+temp/
+tmp/
+
+# Local environment
+.env
+.env.local
