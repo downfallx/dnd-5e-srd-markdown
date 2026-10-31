@@ -14084,30 +14084,30 @@ _Gargantuan Dragon (Chromatic), Chaotic Evil_
     <tr>
       <td><strong>STR</strong></td>
       <td>30</td>
-      <td>+10 +10</td>
-      <td>DEX</td>
+      <td>+10</td>
+      <td>+10</td>
       <td><strong>DEX</strong></td>
-      <td>10 +0</td>
+      <td>10</td>
+      <td>+0</td>
       <td>+7</td>
-      <td>CON 29</td>
       <td><strong>CON</strong></td>
       <td>29</td>
-      <td>+9 +9</td>
-      <td>INT</td>
+      <td>+9</td>
+      <td>+9</td>
     </tr>
     <tr>
       <td><strong>INT</strong></td>
       <td>18</td>
-      <td>+4 +4</td>
-      <td>WIS</td>
+      <td>+4</td>
+      <td>+4</td>
       <td><strong>WIS</strong></td>
-      <td>15 +2</td>
+      <td>15</td>
+      <td>+2</td>
       <td>+9</td>
-      <td>CHA 27</td>
       <td><strong>CHA</strong></td>
       <td>27</td>
-      <td>+8 +8</td>
-      <td>+8 +8</td>
+      <td>+8</td>
+      <td>+8</td>
     </tr>
   </tbody>
 </table>
@@ -14181,30 +14181,30 @@ _Huge Monstrosity, Unaligned_
     <tr>
       <td><strong>STR</strong></td>
       <td>24</td>
-      <td>+7 +7</td>
-      <td>DEX</td>
+      <td>+7</td>
+      <td>+7</td>
       <td><strong>DEX</strong></td>
-      <td>13 +1</td>
+      <td>13</td>
       <td>+1</td>
-      <td>CON 21</td>
+      <td>+1</td>
       <td><strong>CON</strong></td>
       <td>21</td>
-      <td>+5 +5</td>
-      <td>INT</td>
+      <td>+5</td>
+      <td>+5</td>
     </tr>
     <tr>
       <td><strong>INT</strong></td>
       <td>4</td>
-      <td>−3 −3</td>
-      <td>WIS</td>
+      <td>−3</td>
+      <td>−3</td>
       <td><strong>WIS</strong></td>
-      <td>10 +0</td>
+      <td>10</td>
       <td>+0</td>
-      <td>CHA 5</td>
+      <td>+0</td>
       <td><strong>CHA</strong></td>
       <td>5</td>
-      <td>−3 −3</td>
-      <td>−3 −3</td>
+      <td>−3</td>
+      <td>−3</td>
     </tr>
   </tbody>
 </table>
@@ -18608,7 +18608,7 @@ _Large Dragon (Chromatic), Chaotic Evil_
       <td><strong>INT</strong></td>
       <td>6</td>
       <td>−2</td>
-      <td>2</td>
+      <td>−2</td>
       <td><strong>WIS</strong></td>
       <td>11</td>
       <td>+0</td>
@@ -18945,9 +18945,9 @@ _Tiny Undead, Chaotic Evil_
   <tbody>
     <tr>
       <td><strong>STR</strong></td>
-      <td>-5</td>
-      <td>-5</td>
-      <td>DEX</td>
+      <td>1</td>
+      <td>−5</td>
+      <td>−5</td>
       <td><strong>DEX</strong></td>
       <td>28</td>
       <td>+9</td>
